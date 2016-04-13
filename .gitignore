@@ -2,7 +2,7 @@ node_modules
 npm-debug.log
 .tmp
 .sass-cache
-app/bower_components
+bower_components
 .idea/
 *.iml
 
